@@ -1,6 +1,4 @@
-# Portfolio
-portfolio/ ├── index.html ├── style.css ├── assets/ │   ├── images/ │   └── resume.pdf
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -64,23 +62,5 @@ header {
   color: white;
   padding: 2rem;
   text-align: center;
-}
-
-nav a {
-  margin: 0 1rem;
-  color: #00bcd4;
-  text-decoration: none;
-}
-
-section {
-  padding: 2rem;
-  max-width: 800px;
-  margin: auto;
-}
-
-footer {
-  text-align: center;
-  padding: 1rem;
-  background: #222;
-  color: white;
+r: white;
 }
